@@ -1,0 +1,15 @@
+import re
+import tokenize
+file = open('new.txt','rb')
+line = file.readline()
+line1 =file.readline()
+line2 = file.readl
+nums = re.findall(r'\d+',line)
+print nums
+print line2
+ind =  list(line2).index('^')
+tokenize.tokenize(sendline,printit)
+def printit(a,b,c,d,e):
+	print('{} {} {} {} {} '.format(a,b,c,d,e))
+def sendline():
+	return line2

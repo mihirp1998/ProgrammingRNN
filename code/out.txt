@@ -1,0 +1,1 @@
+	for(int i = numi> 0;i--){

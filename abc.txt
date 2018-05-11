@@ -1,0 +1,18 @@
+1st lexcial analysis
+parsiing and making of parse tree
+
+semantic analysis
+catch inconsistencies 
+jack said jerry left his assignment at home
+strict rules in programming help in solving these problems
+construct of the mmmmm,,.,m,
+jack left her homework at home
+x= y * 0
+is x = 0
+code gen produces assembly code
+every compiler has all phases 
+fortran
+lexical analysis , parsing, sementaic analysis, optimization, code generation
+seperate language for specific task machine learning can solve that
+the difficult part is teaching programmers
+
